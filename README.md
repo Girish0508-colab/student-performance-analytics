@@ -3,7 +3,6 @@
 A Machine Learning-powered web application that predicts student final exam performance based on study hours, attendance, and internal assessment scores.
 
 ---
-
 ## 🚀 Project Overview
 
 This project demonstrates a complete ML pipeline:
@@ -19,7 +18,6 @@ This project demonstrates a complete ML pipeline:
 The application is built using Streamlit and functions as a mini analytics dashboard.
 
 ---
-
 ## 📊 Features
 
 - 📈 Predict final exam score
@@ -30,7 +28,6 @@ The application is built using Streamlit and functions as a mini analytics dashb
 - 🖥 Clean and responsive dashboard UI
 
 ---
-
 ## 🛠 Tech Stack
 
 - Python
@@ -39,16 +36,24 @@ The application is built using Streamlit and functions as a mini analytics dashb
 - NumPy
 - Streamlit
 - Git & GitHub
-
 ---
-
 ## 📷 Dashboard Preview
 
-(Add screenshot here after deployment)
+![alt text](<dashboard.png>)
 
 ---
-
 ## ⚙ How to Run Locally
 
 1. Clone the repository:
+2. Navigate to project folder:
+3. Install dependencies:
+4. Run the application:
 
+## 📈 Model Information
+- Algorithm: Linear Regression
+- Evaluation Metric: R² Score ≈ 0.99
+- Dataset: Structured academic performance dataset
+
+## 👨‍💻 Author
+Girish Kumar  
+Mechanical Engineer transitioning into Software & Data Analytics
